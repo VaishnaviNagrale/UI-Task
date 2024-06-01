@@ -1,0 +1,91 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/image_121.png
+  - assets/images/image_110.png
+  - assets/vectors/fill_15_x2.svg
+  - assets/vectors/fill_34_x2.svg
+  - assets/vectors/fill_8_x2.svg
+  - assets/vectors/fill_1_x2.svg
+  - assets/vectors/rectangle_5802_x2.svg
+  - assets/vectors/rectangle_5811_x2.svg
+  - assets/vectors/fill_12_x2.svg
+  - assets/vectors/fill_23_x2.svg
+  - assets/vectors/vector_x2.svg
+  - assets/vectors/battery_2_x2.svg
+  - assets/vectors/logout_2_x2.svg
+  - assets/vectors/rectangle_582_x2.svg
+  - assets/vectors/vector_3_x2.svg
+  - assets/vectors/image_2_x2.svg
+  - assets/vectors/dislike_2_x2.svg
+  - assets/vectors/fill_26_x2.svg
+  - assets/vectors/arrow_left_x2.svg
+  - assets/vectors/vector_1_x2.svg
+  - assets/vectors/fill_25_x2.svg
+  - assets/vectors/stroke_13_x2.svg
+  - assets/vectors/vector_10_x2.svg
+  - assets/vectors/group_2_x2.svg
+  - assets/vectors/rectangle_5831_x2.svg
+  - assets/vectors/trash_3_x2.svg
+  - assets/vectors/fill_x2.svg
+  - assets/vectors/link_x2.svg
+  - assets/vectors/user_add_x2.svg
+  - assets/vectors/user_add_2_x2.svg
+  - assets/images/image_110.png
+  - assets/images/image_121.png
+  - assets/vectors/rectangle_580_x2.svg
+  - assets/vectors/group_1_x2.svg
+  - assets/vectors/rectangle_583_x2.svg
+  - assets/vectors/image_x2.svg
+  - assets/vectors/stroke_1_x2.svg
+  - assets/vectors/vector_8_x2.svg
+  - assets/vectors/vector_2_x2.svg
+  - assets/vectors/rectangle_5822_x2.svg
+  - assets/vectors/arrow_left_3_x2.svg
+  - assets/vectors/rectangle_5813_x2.svg
+  - assets/vectors/trash_1_x2.svg
+  - assets/vectors/dislike_3_x2.svg
+  - assets/vectors/logout_1_x2.svg
+  - assets/vectors/battery_1_x2.svg
+  - assets/vectors/search_normal_1_x2.svg
+  - assets/images/image_110.png
+  - assets/images/image_121.png
+  - assets/vectors/vector_6_x2.svg
+  - assets/vectors/vector_9_x2.svg
+  - assets/vectors/rectangle_581_x2.svg
+  - assets/vectors/group_x2.svg
+  - assets/vectors/stroke_14_x2.svg
+  - assets/vectors/dislike_1_x2.svg
+  - assets/vectors/vector_7_x2.svg
+  - assets/vectors/rectangle_5823_x2.svg
+  - assets/vectors/image_1_x2.svg
+  - assets/vectors/search_normal_x2.svg
+  - assets/vectors/battery_x2.svg
+  - assets/vectors/arrow_left_2_x2.svg
+  - assets/vectors/trash_x2.svg
+  - assets/vectors/vector_4_x2.svg
+  - assets/vectors/rectangle_5803_x2.svg
+  - assets/vectors/logout_x2.svg
+  - assets/vectors/rectangle_5833_x2.svg
+
